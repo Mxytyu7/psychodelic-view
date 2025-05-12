@@ -4,6 +4,8 @@ made by https://berwart.my
 Thanks for viewing thsi repstory, its still in test mode and in developement.
 we sstill put an alpha version that simulates a view with lsd (Lysergic acid diethylamide), an psychodelic drug that intensifies thoughts, emotions, and sensory perception. 
 
+for now, remove input.mp4 and replace it with a vid that you want to see the effects on (ex you walking your dog, ...) and rename it input.txt
+
 give us a star if you want
 
 What To Do:
