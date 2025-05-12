@@ -1,2 +1,23 @@
 # psychodelic-view
-Hello, psychedelic view is an small project made by me (mxytyu) to research effects of drugs and their views (can even help in movies because most movies does not have an "real view" of psychedelics and other drugs (This project is made to simulate the view of somebody using lsd, mdma, mushrooms,... on an video or image.)
+made by https://berwart.my
+
+Thanks for viewing thsi repstory, its still in test mode and in developement.
+we sstill put an alpha version that simulates a view with lsd (Lysergic acid diethylamide), an psychodelic drug that intensifies thoughts, emotions, and sensory perception. 
+
+give us a star if you want
+
+What To Do:
+
+̶t̶̶u̶̶r̶̶t̶̶l̶̶̶e̶ ̶a̶̶p̶̶p̶ ̶
+c̶̶o̶̶r̶̶̶e̶
+s̶̶l̶̶i̶̶d̶̶̶e̶̶r̶̶s̶
+custom vids
+live camera input
+better model
+ai model to tell feelings / emotions (ex. anxiety, paranoia, ...)
+add more drugs (ex. mdama, psychobin,... (hullucigenic drugs)
+add additional drugs (ex. alchool 25%, 47%, ... , amphetamines, methamphetamine, methylempdiate, benzopedines, fentanyl, heroine, codeine, cocaine, dmx, ...)
+
+tell us anything you want in our scocials or wherever you can reach us.
+
+please note that this is for educational purposes onlyand should not be used for mixing drugs or anything like that.
