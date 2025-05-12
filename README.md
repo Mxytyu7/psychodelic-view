@@ -8,7 +8,7 @@ give us a star if you want
 
 What To Do:
 
-̶- t̶̶u̶̶r̶̶t̶̶l̶̶̶e̶ ̶a̶̶p̶̶p̶ ̶
+- t̶̶u̶̶r̶̶t̶̶l̶̶̶e̶ ̶a̶̶p̶̶p̶ ̶
 - c̶̶o̶̶r̶̶̶e̶
 - s̶̶l̶̶i̶̶d̶̶̶e̶̶r̶̶s̶
 - custom vids
